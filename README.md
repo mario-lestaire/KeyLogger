@@ -1,5 +1,5 @@
 # keylogger.py
-## Script en Python de kelogger básico
+Script en Python de kelogger básico
 
 # klv2.py
 ## Mismo script pero ofuscado (menos sospechoso)
